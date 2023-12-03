@@ -1,0 +1,14 @@
+# Ignore system-specific files
+node_modules/
+.cache/*
+
+# Ignore build outputs
+build/*
+dist/*
+
+# Ignore temporary files
+tmp/*
+logs/*
+
+# Ignore generated documentation
+docs/
